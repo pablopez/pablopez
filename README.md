@@ -9,7 +9,6 @@ For more than a decade, I worked on **QScan**, a professional Video Quality Cont
 ## 🚀 What I'm working on
 
 - 🎓 Finishing my **Computer Engineering degree**, specialized in Software Engineering
-- ⚛️ Expanding my experience with **React and Next.js**
 - 🏗️ Building projects focused on **architecture, maintainability and clean code**
 - 🤖 Exploring **AI-assisted development and automation**
 
